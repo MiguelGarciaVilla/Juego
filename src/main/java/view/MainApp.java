@@ -247,11 +247,11 @@ public class MainApp extends Application {
             case "Tecnicas del infinito":
                 return new BaculoDeCuracion("Tecnicas del infinito", 5, 0);
             case "Espadas del caos":
-                return new HojaDelOlimpo("Espadas del caos", 5, 10);
+                return new HojaDelOlimpo("Espadas del caos", 5, 40);
             case "Arco Infinito":
                 return new ArcoInfinito("Arco Infinito", 10, 20);
             case "Hoja del Olimpo":
-                return new HojaDelOlimpo("Hoja del Olimpo", 1, 10);
+                return new HojaDelOlimpo("Hoja del Olimpo", 1, 35);
             case "Chancla Nuclear":
                 return new ChanclaNuclear("Chancla Nuclear", 8, 25);
             case "Báculo de Curación":
