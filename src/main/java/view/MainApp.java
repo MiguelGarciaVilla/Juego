@@ -252,6 +252,7 @@ public class MainApp extends Application {
                 return new ArcoInfinito("Arco Infinito", 10, 20);
             case "Hoja del Olimpo":
                 return new HojaDelOlimpo("Hoja del Olimpo", 1, 10);
+                return new HojaDelOlimpo("Hoja del Olimpo", 1, 35);
             case "Chancla Nuclear":
                 return new ChanclaNuclear("Chancla Nuclear", 8, 25);
             case "Báculo de Curación":
